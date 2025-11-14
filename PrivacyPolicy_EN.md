@@ -24,4 +24,4 @@ The information and materials collected about you by the Software will be stored
 
 a) When using the Software to conduct online transactions, you will inevitably disclose your personal information, such as contact information or postal address, to the counterparty or potential counterparty. Please protect your personal information and provide it to others only when necessary. If you find that your personal information has been compromised, please contact the software's customer service immediately so that the software can take appropriate measures.
 
-Translated with DeepL.com (free version)
+
